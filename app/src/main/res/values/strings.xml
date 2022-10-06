@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan Dua</string>
+    <string name="text_email">Your Email (e.g. jdoe@email.com)</string>
+    <string name="text_password">Enter Your Password</string>
+    <string name="action_login">Login</string>
+    <string name="msg_success">Login Berhasil</string>
+    <string name="msg_failed_login">Login Failed</string>
+</resources>
